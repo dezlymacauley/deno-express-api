@@ -1,0 +1,13 @@
+{
+  "tasks": {
+    "start": "deno --allow-env --allow-net src/main.ts"
+  },
+	"fmt": {
+		"lineWidth": 80,
+		"proseWrap": "always",
+		"useTabs": false,
+		"indentWidth": 2,
+		"semiColons": true,
+		"singleQuote": false
+	}
+}
